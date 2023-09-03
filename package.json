@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-plugin-editfrontmatter",
+  "version": "1.0.0",
+  "description": "基于vuepress对markdown文件增加以及删除字段",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyao52033/vuepress-plugin-editfrontmatter.git"
+  },
+  "keywords": [
+    "vuepress",
+    "frontmatter",
+    "markdown"
+  ],
+  "author": "liyao52033",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liyao52033/vuepress-plugin-editfrontmatter/issues"
+  },
+  "homepage": "https://github.com/liyao52033/vuepress-plugin-editfrontmatter#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "glob": "^10.3.4",
+    "gray-matter": "^4.0.3"
+  }
+}
